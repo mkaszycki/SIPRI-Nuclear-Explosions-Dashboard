@@ -1,4 +1,4 @@
-# Nuclear Explosions 1945–1998 - Power BI Dashboard
+# Nuclear Explosions 1945-1998 - Power BI Dashboard
 
 An interactive Power BI report analysing **2,051 nuclear explosions** conducted by 7 countries between 1945 and 1998, based on the SIPRI / FOI dataset.
 
