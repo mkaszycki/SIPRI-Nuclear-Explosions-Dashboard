@@ -10,10 +10,10 @@ The goal was not just to plot the data, but to tell the story hidden in it: how 
 
 ## Key findings
 
-- **A two-player race** — the USA (1,032) and the USSR (714) account for ~85% of all tests.
-- **One treaty changed everything** — 74% of all tests were conducted underground, a direct effect of the 1963 Partial Test Ban Treaty, which banned atmospheric testing.
-- **Diplomacy is visible in the data** — the sharp drop in 1959–60 followed by a spike in 1961–62 matches the US–Soviet testing moratorium (1958–1961) and its collapse.
-- **Extremely uneven power** — most tests were relatively small, while 127 thermonuclear-class detonations (≥ 1 Mt) account for the bulk of the total yield. The largest one, the Tsar Bomba (1961), reached ~50 Mt.
+- **A two-player race** - the USA (1,032) and the USSR (714) account for ~85% of all tests.
+- **One treaty changed everything** - 74% of all tests were conducted underground, a direct effect of the 1963 Partial Test Ban Treaty, which banned atmospheric testing.
+- **Diplomacy is visible in the data** - the sharp drop in 1959–60 followed by a spike in 1961–62 matches the US–Soviet testing moratorium (1958–1961) and its collapse.
+- **Extremely uneven power** - most tests were relatively small, while 127 thermonuclear-class detonations (≥ 1 Mt) account for the bulk of the total yield. The largest one, the Tsar Bomba (1961), reached ~50 Mt.
 
 ---
 
